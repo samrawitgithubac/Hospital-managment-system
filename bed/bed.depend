@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707753141 source:c:\users\user\documents\.cbp\er\bin\bed\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
